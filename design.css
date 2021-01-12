@@ -1,0 +1,47 @@
+:root{
+    --primary-color:  #A5B4FC;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: #F87171 ;
+    font-weight: bold;
+}
+.para {
+    font-size: 1.5rem;
+}
+.section{
+    margin-left: 1rem;
+}
+.Section{
+    margin-left: 1rem;
+    background-color: #F9A8D4 ;
+}
+.section .header{
+    background-color:#C4B5FD ;
+}
+.Section .head{
+    background-color: #F9A8D4
+}
+.Section .lists .points{
+    padding: 0rem 2rem;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    background-color: #F9A8D4
+
+}
+.section .list .note{
+    padding: 0rem 2rem;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    background-color:#C4B5FD
+     
+    
+}
+.purple{
+    background-color:#C4B5FD ;
+}
+.pink{
+    background-color: #F9A8D4
+}
